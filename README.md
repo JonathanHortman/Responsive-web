@@ -1,5 +1,5 @@
 # Responsive-web
-En este proyecto, realice mi primera pagina responsive, en la cual adapte el contenido de la misma y le di estilos mediante herramientas adquiridas en mi aprendizaje, tales como, CSS, HTML y el Pre-processor LESS.
+En este proyecto, realice mi primera pagina responsive, en la cual adapte el contenido de la misma y le di estilos mediante herramientas tales como, CSS, HTML y el Pre-processor LESS.
 
 A continuacion les compartire las imagenes del resultado final de este proyecto.
 
